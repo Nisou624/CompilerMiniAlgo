@@ -1,0 +1,28 @@
+LANGAGE miniAlgo
+    VAR
+    {ceci est un commentaire}
+    X1,X2:INT;
+    a,b: CONST FLOAT;
+    c= 15 : CONST FLOAT;
+    BOOL Function mdr
+        VAR
+            x,y,z: INT;
+            r : INT;
+            a: INT;
+        BEGIN
+            r = x+y+z;
+            Return r;
+        END
+        
+BEGIN
+
+    If(c < 5)
+    BEGIN
+        c = 1;
+        d = 6;
+    END
+    While(i>2)
+    BEGIN
+        B=B+2-2;
+    END
+END
